@@ -1,4 +1,11 @@
 
+# Project Title: Number Guessing Game
+
+## Project Author
+Abimbola Okunniyi
+
+## Project Description
+
 This set of code below is for a game that creates fun by guessing a number between 1 and 10
 The code prompts the user to put a number and guides them to make the correct guess
 
