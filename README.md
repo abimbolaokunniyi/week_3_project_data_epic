@@ -11,11 +11,11 @@ Start
  Display: “I’m thinking of a number between 1 and 10.”
  Repeat the following steps until the user guesses correctly:
    - Ask the user to *enter a guess* and save it as `guess`
-   - **If** `guess` < `number_in_mind`  
+   - If`guess` < `number_in_mind`  
      → Display: “Too low! Try again.”
-   - **Else if** `guess` > `number_in_mind`  
+   - Else if `guess` > `number_in_mind`  
      → Display: “Too high! Try again.”
-   - **Else** (`guess` == `number_in_mind`)  
+   - Else (`guess` == `number_in_mind`)  
      → Display: " Congratulations! You guessed the correct number.”  
-     → **Exit** the loop
+     → Exit the loop
  End
