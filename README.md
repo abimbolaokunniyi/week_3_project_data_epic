@@ -1,10 +1,21 @@
+#Project Details
 
+##Project Author
+- Author: Abimbola Okunniyi
+
+##Project Title
+*** Guess the Number Game ***
+
+##Peer Reviewer
+- Peer Reviewer: Awoniyi Dolapo
+
+**Overview**
 This set of code below is for a game that creates fun by guessing a number between 1 and 10
+
+**Obejectives**
 The code prompts the user to put a number and guides them to make the correct guess
 
-
-
-Pseudocode
+**Pseudocode Steps**
 
 Start
  Put a random number between 1 and 10 → save it as `number_in_mind`
